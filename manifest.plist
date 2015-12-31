@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dev.ahasou.com/dl/app/ios/0.1.ipa</string>
+					<string>https://raw.githubusercontent.com/u3breeze/Aha/master/0.1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dev.ahasou.com/dl/app/ios/logo-57x57.jpg</string>
+					<string>https://raw.githubusercontent.com/u3breeze/Aha/master/logo-57x57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dev.ahasou.com/dl/app/ios/logo-512x512.jpg</string>
+					<string>https://raw.githubusercontent.com/u3breeze/Aha/master/logo-512x512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
